@@ -94,7 +94,6 @@ int main(){
 ```txt
 10
 ```
----
 
 **Output:**
 ```txt
