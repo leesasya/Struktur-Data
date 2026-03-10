@@ -1,14 +1,8 @@
-Halo Khalisya! Ini draf `README.md` yang sudah disusun rapi dan terstruktur untuk tugas Struktur Data kamu. Saya sudah menyesuaikan urutan kode dengan daftar topik agar saling cocok (karena di prompt urutan kodenya sedikit tertukar).
-
-Silakan salin teks di bawah ini ke dalam file `README.md` di repository kamu:
-
----
-
 # Tugas Struktur Data - Week 2 (2026)
 
 **Nama:** Khalisya Zahra Putria Rahman
 
-**Repository:** [Link Source Code](https://www.google.com/search?q=%23) *(Ganti dengan link repo kamu)*
+**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2)
 
 Repositori ini berisi kumpulan implementasi dasar pemrograman menggunakan C++ untuk mata kuliah Struktur Data. Terdapat 11 program sederhana yang mendemonstrasikan fungsi I/O, percabangan, perulangan, pembuatan fungsi, hingga penggunaan array, pointer, dan string.
 
@@ -30,7 +24,7 @@ int main(){
 ```
 
 **Output:**
-
+![no1](../Week-2/assets/1.png)
 ---
 
 ## 2. C++ cout
@@ -49,7 +43,7 @@ int main(){
 ```
 
 **Output:**
-
+![no2](../Week-2/assets/2.png)
 ---
 
 ## 3. C++ puts()
@@ -68,7 +62,7 @@ int main(){
 ```
 
 **Output:**
-
+![no3](../Week-2/assets/3.png)
 ---
 
 ## 4. C++ cin
@@ -89,7 +83,7 @@ int main(){
 ```
 
 **Output:**
-
+![no4](../Week-2/assets/4.png)
 ---
 
 ## 5. C++ Branching - Odd/Even
@@ -110,7 +104,7 @@ int main(){
 ```
 
 **Output:**
-
+![no5](../Week-2/assets/5.png)
 ---
 
 ## 6. C++ Looping - Number Pattern
@@ -136,7 +130,7 @@ int main(){
 ```
 
 **Output:**
-
+![no6](../Week-2/assets/6.png)
 ---
 
 ## 7. C++ Function - Vowel / Consonant
@@ -163,7 +157,7 @@ int main(){
 ```
 
 **Output:**
-
+![no7](../Week-2/assets/7.png)
 ---
 
 ## 8. C++ Function - Prime Numbers
@@ -204,7 +198,7 @@ int main(){
 ```
 
 **Output:**
-
+![no8](../Week-2/assets/8.png)
 ---
 
 ## 9. C++ Array
@@ -240,7 +234,7 @@ int main(){
 ```
 
 **Output:**
-
+![no9](../Week-2/assets/9.png)
 ---
 
 ## 10. C++ Pointer
@@ -266,7 +260,7 @@ int main(){
 ```
 
 **Output:**
-
+![no10](../Week-2/assets/10.png)
 ---
 
 ## 11. C++ String
@@ -287,7 +281,5 @@ int main(){
 ```
 
 **Output:**
-
+![no11](../Week-2/assets/11.png)
 ---
-
-Apakah ada yang perlu diubah atau disesuaikan lagi dari format di atas?
