@@ -24,7 +24,9 @@ int main(){
 ```
 
 **Output:**
-![no1](../Week-2/assets/1.png)
+```txt
+Hello World!
+```
 ---
 
 ## 2. C++ cout
