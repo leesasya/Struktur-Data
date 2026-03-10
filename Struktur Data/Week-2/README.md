@@ -90,9 +90,14 @@ int main(){
 
 ```
 
-**Input Output:**
+**Input:**
 ```txt
 10
+```
+---
+
+**Output:**
+```txt
 10
 ```
 ---
