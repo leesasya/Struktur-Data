@@ -1,6 +1,7 @@
 # Tugas Struktur Data - Week 2 (2026)
 
 **Nama:** Khalisya Zahra Putria Rahman
+**NRP:** 5025251045
 
 **Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2)
 
