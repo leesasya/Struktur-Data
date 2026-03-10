@@ -45,7 +45,9 @@ int main(){
 ```
 
 **Output:**
-![no2](../Week-2/assets/2.png)
+```txt
+Khalisya Zahra Putria Rahman
+```
 ---
 
 ## 3. C++ puts()
@@ -64,7 +66,9 @@ int main(){
 ```
 
 **Output:**
-![no3](../Week-2/assets/3.png)
+```txt
+Khalisya Zahra Putria Rahman
+```
 ---
 
 ## 4. C++ cin
@@ -84,8 +88,11 @@ int main(){
 
 ```
 
-**Output:**
-![no4](../Week-2/assets/4.png)
+**Input Output:**
+```txt
+10
+10
+```
 ---
 
 ## 5. C++ Branching - Odd/Even
@@ -106,7 +113,9 @@ int main(){
 ```
 
 **Output:**
-![no5](../Week-2/assets/5.png)
+```txt
+Odd
+```
 ---
 
 ## 6. C++ Looping - Number Pattern
@@ -132,7 +141,14 @@ int main(){
 ```
 
 **Output:**
-![no6](../Week-2/assets/6.png)
+```txt
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
 ---
 
 ## 7. C++ Function - Vowel / Consonant
@@ -159,7 +175,10 @@ int main(){
 ```
 
 **Output:**
-![no7](../Week-2/assets/7.png)
+```txt
+Consonant
+Vowel
+```
 ---
 
 ## 8. C++ Function - Prime Numbers
@@ -200,7 +219,9 @@ int main(){
 ```
 
 **Output:**
-![no8](../Week-2/assets/8.png)
+```txt
+11 13 17 19 23 29
+```
 ---
 
 ## 9. C++ Array
@@ -236,7 +257,10 @@ int main(){
 ```
 
 **Output:**
-![no9](../Week-2/assets/9.png)
+```txt
+Minimum element of array: 12
+Maximum element of array: 1234
+```
 ---
 
 ## 10. C++ Pointer
@@ -262,7 +286,12 @@ int main(){
 ```
 
 **Output:**
-![no10](../Week-2/assets/10.png)
+```txt
+Value of x: 10
+Address of x: 0x5ffec4
+Value stored in pointer ptr: 0x5ffec4
+Value pointed to by ptr: 10
+```
 ---
 
 ## 11. C++ String
@@ -283,5 +312,7 @@ int main(){
 ```
 
 **Output:**
-![no11](../Week-2/assets/11.png)
+```txt
+13
+```
 ---
