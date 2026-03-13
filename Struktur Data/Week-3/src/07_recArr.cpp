@@ -20,7 +20,7 @@ int main(){
         cout << "Nama   : ";
         cin >> mhs[i].nama;
 
-        cout << "Jurusan    : ";
+        cout << "Jurusan: ";
         cin >> mhs[i].jurusan;
 
         cout << "Umur   : ";
