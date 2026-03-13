@@ -1,29 +1,35 @@
-# *Struktur-Data (D) 2026*
+<div align="center">
 
-<div align=>
-  <h3></strong>Khalisya Zahra Putria Rahman</h3>
-  <p><strong>NRP:</strong> 5025251045</p>
-  
-  <a href="5025251045@student.its.ac.id">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://wa.me/6281285117780">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+## S T R U K T U R &nbsp; D A T A &mdash; D
+
+<p><i>K h a l i s y a &nbsp; Z a h r a &nbsp; P u t r i a &nbsp; R a h m a n</i><br>
+NRP. 5025251045</p>
+
+<a href="mailto:5025251045@student.its.ac.id">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://wa.me/6281285117780">
+  <img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 </div>
 
----
+<br>
 
-| No | Nama Tugas                    | Link                                |
-|----|-------------------------------|-------------------------------------|
-| 1  | Week 1: CV                    | [Check Here!](./assignments/tugas1) |
-| 2  | Week 2: Review C++            | [Check Here!](./assignments/prak1)  |
-| 3  | Week 3: Array of C++          | [Check Here!](./assignments/tugas2) |
+### Repository Index
 
+| No | Task Name | Access Link |
+|:---:|:---|:---:|
+| 01 | **Week 1: Curriculum Vitae** | [View Directory](./assignments/tugas1) |
+| 02 | **Week 2: Review C++** | [View Directory](./assignments/prak1) |
+| 03 | **Week 3: Array of C++** | [View Directory](./assignments/tugas2) |
 
-> Thank You!
+<br>
+
+> *Thank you! :D.*
+
 ---
 
 <div align="center">
-  © 2026 Khalisya Zahra Putria Rahman
+  <small>&copy; 2026 Khalisya Zahra Putria Rahman</small>
 </div>
