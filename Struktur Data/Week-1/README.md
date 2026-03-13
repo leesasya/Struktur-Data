@@ -1,4 +1,4 @@
-# Week 1 - Curriculum Vitae
+# Tugas Struktur Data - Week 1 (2026)
 
 **Nama:** Khalisya Zahra Putria Rahman
 
