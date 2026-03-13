@@ -16,8 +16,6 @@ NRP. 5025251045</p>
 
 <br>
 
-### Repository Index
-
 | No | Task Name | Access Link |
 |:---:|:---|:---:|
 | 01 | **Week 1: Curriculum Vitae** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-1) |
