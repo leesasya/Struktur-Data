@@ -8,7 +8,7 @@
 
 ## 🔗 Link
 - **Source Blogspot:** [Blogspot - Week 1 Curriculum Vitae](https://khalisyazpr.blogspot.com/p/week-1-curriculum-vitae.html)
-                       [Main Blogspot](https://khalisyazpr.blogspot.com)
+                       && [Main Blogspot](https://khalisyazpr.blogspot.com)
 - **LinkedIn:** [@khalisyazpr](http://linkedin.com/in/khalisyazpr)
 - **GitHub:** [@leesasya](https://github.com/leesasya)
 - **Download CV (PDF):** [CV ATS Khalisya Zahra Putria Rahman](https://drive.google.com/file/d/17sSzgGBwCP4AbUbQdjjIxTDi6VYWvpgb/view?usp=sharing)
