@@ -29,7 +29,7 @@ int main(){
         cout << "Masukkan 3 Hobi:" << endl;
         for(int j=0; j<3; j++){
             cout << "Hobi ke-" << j+1 << " : ";
-            cin >> mhs[i].hobi[i];
+            cin >> mhs[i].hobi[j];
         }
         cout << endl;
     }
