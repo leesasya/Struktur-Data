@@ -20,9 +20,9 @@ NRP. 5025251045</p>
 
 | No | Task Name | Access Link |
 |:---:|:---|:---:|
-| 01 | **Week 1: Curriculum Vitae** | [View Directory](./assignments/tugas1) |
-| 02 | **Week 2: Review C++** | [View Directory](./assignments/prak1) |
-| 03 | **Week 3: Array of C++** | [View Directory](./assignments/tugas2) |
+| 01 | **Week 1: Curriculum Vitae** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-1) |
+| 02 | **Week 2: Review C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2) |
+| 03 | **Week 3: Array of C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-3)|
 
 <br>
 
