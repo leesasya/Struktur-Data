@@ -4,7 +4,7 @@
 
 **NRP:** 5025251045
 
-**Repository:** [Link Source Code]()
+**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-5)
 
 Repositori ini berisi penjelasan dan implementasi program C++ yang mendemonstrasikan operasi dasar pada struktur data **Stack** serta penerapannya. Stack adalah struktur data linear dengan prinsip **LIFO (Last In, First Out)**, di mana elemen yang terakhir kali dimasukkan akan menjadi elemen pertama yang dikeluarkan. Proses penambahan (`push`) dan penghapusan (`pop`) elemen hanya dapat dilakukan melalui satu titik yang disebut puncak tumpukan (`top`). 
 
