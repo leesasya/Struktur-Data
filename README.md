@@ -21,7 +21,7 @@ NRP. 5025251045</p>
 | 01 | **Week 1: Curriculum Vitae** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-1) |
 | 02 | **Week 2: Review C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2) |
 | 03 | **Week 3: Array of C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-3)|
-| 04 | **Week 4: Stack on C++** | [View Directory]()|
+| 04 | **Week 4: Stack on C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-5)|
 
 <br>
 
