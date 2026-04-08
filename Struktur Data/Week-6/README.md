@@ -4,7 +4,7 @@
 
 **NRP:** 5025251045
 
-**Repository:** [Link Source Code]()
+**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-6)
 
 Repositori ini berisi penjelasan dan implementasi program C++ yang mendemonstrasikan **Aplikasi Penggunaan Stack**. Stack bekerja dengan prinsip **LIFO (Last In First Out)**, yang menjadikannya struktur data ideal untuk menyelesaikan permasalahan berbasis urutan dan penundaan eksekusi, seperti manipulasi dan evaluasi ekspresi matematika.
 
