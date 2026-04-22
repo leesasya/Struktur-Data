@@ -22,7 +22,9 @@ NRP. 5025251045</p>
 | 02 | **Week 2: Review C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2) |
 | 03 | **Week 3: Array of C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-3)|
 | 04 | **Week 5: Stack on C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-5)|
-| 05 | **Week 6: Stack on C++** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-6)|
+| 05 | **Week 6: Aplikasi Stack** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-6)|
+| 06 | **Week 7: Queue** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-7)|
+| 07 | **Week 8: Linked List** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-8)|
 <br>
 
 > *Thank you! :D.*

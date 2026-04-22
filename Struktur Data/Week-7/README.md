@@ -4,9 +4,7 @@
 
 **NRP:** 5025251045
 
-**Repository:** [Link Source Code]()
-
-Repositori ini berisi penjelasan, algoritma, dan implementasi program C++ yang mendemonstrasikan struktur data **Queue (Antrian)**. 
+**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-7)
 
 Queue adalah struktur data abstrak (ADT) linear yang beroperasi dengan prinsip **FIFO (First-In, First-Out)** atau *masuk pertama, keluar pertama*. Berbeda dengan Stack yang hanya memiliki satu ujung akses, Queue memiliki dua ujung:
 1. **Rear (Belakang):** Titik di mana elemen baru dimasukkan.
