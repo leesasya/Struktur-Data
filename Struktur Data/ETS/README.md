@@ -334,7 +334,7 @@ int main(){
 }
 ```
 
-#### Part B: Implementasi Sistem Antrian Interaktif (Menu Berbasis)
+#### B: Implementasi Sistem Antrian Interaktif (Menu Berbasis)
 Program ini menyediakan antarmuka menu interaktif yang memungkinkan pengguna untuk melakukan operasi Enqueue, Dequeue, dan Tampilkan secara dinamis melalui input terminal.
 
 ```cpp
