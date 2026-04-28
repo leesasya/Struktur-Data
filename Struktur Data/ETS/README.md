@@ -199,7 +199,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Kosong)
 ```
 
-### 2. Langkah a: Tambah Angka 19
+### a: Tambah Angka 19
 ```
 Queue: [19][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -208,7 +208,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 0
 ```
 
-### 3. Langkah b: Tambah Angka 7
+### b: Tambah Angka 7
 ```
 Queue: [19][7 ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -217,7 +217,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 1
 ```
 
-### 4. Langkah c: Hapus 2 Angka
+### c: Hapus 2 Angka
 Hapus 19 (Front=1), Hapus 7 (Front=2). Front > Rear, Lakukan Reset.
 ```
 Queue: [ ][ ][ ][ ][ ][ ][ ][ ][ ]
@@ -225,7 +225,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Reset/Kosong)
 ```
 
-### 5. Langkah d: Tambah Angka 40
+### d: Tambah Angka 40
 ```
 Queue: [40][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -234,7 +234,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 0
 ```
 
-### 6. Langkah e: Hapus 3 Angka
+### e: Hapus 3 Angka
 Hapus ke-1: Angka 40 dihapus (Queue Kosong, Reset)  
 Hapus ke-2 & ke-3: **UNDERFLOW**
 ```
@@ -243,7 +243,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Kosong)
 ```
 
-### 7. Langkah f: Tambah Angka 18
+### f: Tambah Angka 18
 ```
 Queue: [18][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:  0  1  2  3  4  5  6  7  8
