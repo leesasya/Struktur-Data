@@ -15,7 +15,7 @@
 ### --> Array digunakan ketika kita perlu menyimpan banyak data yang memiliki kategori dan tipe yang sama tanpa harus membuat banyak variabel yang berbeda. Array sangat efisien untuk proses pencarian data menggunakan indeks dan proses iterasi (perulangan).
 
 ### Contoh Penggunaan dalam Aplikasi
-1.  **Aplikasi Pengolahan Citra (Photoshop / Kamera API)** Gambar digital direpresentasikan sebagai Array 2 Dimensi (matriks) di mana setiap elemen array berisi nilai piksel warna.
+1.  **Aplikasi Pengolahan Citra (Photoshop / Kamera API):** Gambar digital direpresentasikan sebagai Array 2 Dimensi (matriks) di mana setiap elemen array berisi nilai piksel warna.
 2.  **Keranjang Belanja (Shopee / Tokopedia):** Menyimpan daftar barang belanjaan pengguna dalam satu sesi, memungkinkan pengguna memilih atau menghapus barang di urutan acak.
 3.  **Sistem Akademik:** Menyimpan daftar nilai 100 mahasiswa dalam satu mata kuliah untuk mempermudah perhitungan rata-rata.
 
