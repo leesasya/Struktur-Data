@@ -269,7 +269,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 #### Enqueue (Menambahkan Mahasiswa)
 1. Cek apakah antrian penuh (`Rear == Maksimal - 1`)
-2. Jika penuh, tampilkan pesan "Antrian Penuh"
+2. Jika penuh, tampilkan pesan "Antrian Penuh!"
 3. Jika tidak penuh:
    - Jika ini data pertama (`Front == -1`), jadikan `Front = 0`
    - Tambahkan nilai `Rear` sebesar 1 (`Rear = Rear + 1`)
@@ -277,7 +277,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 #### Dequeue (Melayani Mahasiswa)
 1. Cek apakah antrian kosong (`Front == -1` atau `Front > Rear`)
-2. Jika kosong, tampilkan pesan "Tidak ada antrian"
+2. Jika kosong, tampilkan pesan "Antrian Kosong!"
 3. Jika ada data:
    - Ambil/Tampilkan data di `Queue[Front]` sebagai mahasiswa yang sedang dilayani
    - Tambahkan nilai `Front` sebesar 1 (`Front = Front + 1`)
@@ -285,7 +285,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 ### 3. Implementasi Program (C++)
 
-#### Part A: Implementasi Sederhana (Hardcoded Simulation)
+#### A: Implementasi Sederhana (Hardcoded Simulation)
 Program ini mengimplementasikan fungsi dasar Queue dan menjalankan skenario simulasi secara langsung di fungsi `main()` tanpa input pengguna.
 
 ```cpp
