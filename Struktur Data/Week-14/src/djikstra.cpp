@@ -8,7 +8,7 @@ vector<pair<int,int>> graph[100];
 
 void dijkstra(int start, int V) {
     vector<int> dist(V, INF);
-    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq; // Pair: {jarak, node}
+    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
 
     dist[start] = 0;
     pq.push({0, start});
