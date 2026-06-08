@@ -6,8 +6,6 @@
 
 **Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-3)
 
-Repositori ini berisi kumpulan implementasi program C++ yang mendemonstrasikan berbagai operasi dasar hingga lanjutan pada struktur data **Array**. Cakupan materi meliputi inisialisasi array, manipulasi data dan alamat memori, operasi aritmetika (total, rata-rata, pencarian nilai maksimum), seleksi kondisi, hingga penggunaan tipe data bentukan (*Array of Struct*) untuk menyimpan informasi yang lebih kompleks.
-
 ---
 
 ## 1. Inisialisasi dan Pencetakan Array Statis

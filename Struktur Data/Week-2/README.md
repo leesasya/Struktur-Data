@@ -6,8 +6,6 @@
 
 **Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2)
 
-Repositori ini berisi kumpulan implementasi dasar pemrograman menggunakan C++ untuk mata kuliah Struktur Data. Terdapat 11 program sederhana yang mendemonstrasikan fungsi I/O, percabangan, perulangan, pembuatan fungsi, hingga penggunaan array, pointer, dan string.
-
 ---
 
 ## 1. C++ Hello World!

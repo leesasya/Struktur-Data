@@ -26,6 +26,11 @@ NRP. 5025251045</p>
 | 06 | **Week 7: Queue** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-7)|
 | 07 | **Week 8: Linked List** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-8)|
 | 08 | **ETS** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/ETS)|
+| 09 | **Week 10: Tree** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-10)|
+| 10 | **Week 11: Implementasi Tree** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-11)|
+| 11 | **Week 12: BST & B-Tree** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-12)|
+| 12 | **Week 13: Implementasi BST** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-13)|
+| 13 | **Week 14: Graph** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-14)|
 <br>
 
 > *Thank you! :D.*

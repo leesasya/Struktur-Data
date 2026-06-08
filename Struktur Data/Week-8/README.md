@@ -6,8 +6,6 @@
 
 **Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-8)
 
-Repositori ini berisi penjelasan teori mengenai **Node Linked List** beserta implementasi program C++ dari operasi-operasi dasarnya, mulai dari inisialisasi, penyisipan (*insertion*), penghapusan (*deletion*), pencarian (*searching*), hingga pembaruan data (*updating*).
-
 ---
 
 ## Konsep Dasar Node Linked List
