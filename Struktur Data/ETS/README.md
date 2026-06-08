@@ -15,7 +15,7 @@
 ### --> Array digunakan ketika kita perlu menyimpan banyak data yang memiliki kategori dan tipe yang sama tanpa harus membuat banyak variabel yang berbeda. Array sangat efisien untuk proses pencarian data menggunakan indeks dan proses iterasi (perulangan).
 
 ### Contoh Penggunaan dalam Aplikasi
-1.  **Aplikasi Pengolahan Citra (Photoshop / Kamera API)** Gambar digital direpresentasikan sebagai Array 2 Dimensi (matriks) di mana setiap elemen array berisi nilai piksel warna.
+1.  **Aplikasi dengan Image Processing (Photoshop / Kamera API):** Gambar digital direpresentasikan sebagai Array 2 Dimensi (matriks) di mana setiap elemen array berisi nilai piksel warna.
 2.  **Keranjang Belanja (Shopee / Tokopedia):** Menyimpan daftar barang belanjaan pengguna dalam satu sesi, memungkinkan pengguna memilih atau menghapus barang di urutan acak.
 3.  **Sistem Akademik:** Menyimpan daftar nilai 100 mahasiswa dalam satu mata kuliah untuk mempermudah perhitungan rata-rata.
 
@@ -199,7 +199,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Kosong)
 ```
 
-### 2. Langkah a: Tambah Angka 19
+### a: Tambah Angka 19
 ```
 Queue: [19][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -208,7 +208,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 0
 ```
 
-### 3. Langkah b: Tambah Angka 7
+### b: Tambah Angka 7
 ```
 Queue: [19][7 ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -217,7 +217,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 1
 ```
 
-### 4. Langkah c: Hapus 2 Angka
+### c: Hapus 2 Angka
 Hapus 19 (Front=1), Hapus 7 (Front=2). Front > Rear, Lakukan Reset.
 ```
 Queue: [ ][ ][ ][ ][ ][ ][ ][ ][ ]
@@ -225,7 +225,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Reset/Kosong)
 ```
 
-### 5. Langkah d: Tambah Angka 40
+### d: Tambah Angka 40
 ```
 Queue: [40][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:   0  1  2  3  4  5  6  7  8
@@ -234,7 +234,7 @@ Index:   0  1  2  3  4  5  6  7  8
 Status: Front = 0, Rear = 0
 ```
 
-### 6. Langkah e: Hapus 3 Angka
+### e: Hapus 3 Angka
 Hapus ke-1: Angka 40 dihapus (Queue Kosong, Reset)  
 Hapus ke-2 & ke-3: **UNDERFLOW**
 ```
@@ -243,7 +243,7 @@ Index:  0  1  2  3  4  5  6  7  8
 Status: Front = -1, Rear = -1 (Kosong)
 ```
 
-### 7. Langkah f: Tambah Angka 18
+### f: Tambah Angka 18
 ```
 Queue: [18][ ][ ][ ][ ][ ][ ][ ][ ]
 Index:  0  1  2  3  4  5  6  7  8
@@ -269,7 +269,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 #### Enqueue (Menambahkan Mahasiswa)
 1. Cek apakah antrian penuh (`Rear == Maksimal - 1`)
-2. Jika penuh, tampilkan pesan "Antrian Penuh"
+2. Jika penuh, tampilkan pesan "Antrian Penuh!"
 3. Jika tidak penuh:
    - Jika ini data pertama (`Front == -1`), jadikan `Front = 0`
    - Tambahkan nilai `Rear` sebesar 1 (`Rear = Rear + 1`)
@@ -277,7 +277,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 #### Dequeue (Melayani Mahasiswa)
 1. Cek apakah antrian kosong (`Front == -1` atau `Front > Rear`)
-2. Jika kosong, tampilkan pesan "Tidak ada antrian"
+2. Jika kosong, tampilkan pesan "Antrian Kosong!"
 3. Jika ada data:
    - Ambil/Tampilkan data di `Queue[Front]` sebagai mahasiswa yang sedang dilayani
    - Tambahkan nilai `Front` sebesar 1 (`Front = Front + 1`)
@@ -285,7 +285,7 @@ Hal ini menjamin keadilan di mana mahasiswa yang datang lebih awal mutlak akan d
 
 ### 3. Implementasi Program (C++)
 
-#### Part A: Implementasi Sederhana (Hardcoded Simulation)
+#### A: Implementasi Sederhana (Hardcoded Simulation)
 Program ini mengimplementasikan fungsi dasar Queue dan menjalankan skenario simulasi secara langsung di fungsi `main()` tanpa input pengguna.
 
 ```cpp
@@ -334,7 +334,7 @@ int main(){
 }
 ```
 
-#### Part B: Implementasi Sistem Antrian Interaktif (Menu Berbasis)
+#### B: Implementasi Sistem Antrian Interaktif (Menu Berbasis)
 Program ini menyediakan antarmuka menu interaktif yang memungkinkan pengguna untuk melakukan operasi Enqueue, Dequeue, dan Tampilkan secara dinamis melalui input terminal.
 
 ```cpp
