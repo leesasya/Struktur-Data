@@ -4,7 +4,7 @@
 
 **NRP:** 5025251045
 
-**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Week-8)
+**Repository:** [Link Source Code](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-8/src)
 
 ---
 
