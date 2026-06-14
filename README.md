@@ -18,20 +18,20 @@ NRP. 5025251045</p>
 
 | No |            Task Name            |                                      Access Link                                             |
 |:---:|:---|:---:|
-| 01 | **Week 1: Curriculum Vitae**    | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-1) |
-| 02 | **Week 2: Review C++**          | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-2) |
-| 03 | **Week 3: Array of C++**        | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-3) |
-| 04 | **Week 5: Stack on C++**        | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-5) |
-| 05 | **Week 6: Aplikasi Stack**      | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-6) |
-| 06 | **Week 7: Queue**               | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-7) |
-| 07 | **Week 8: Linked List**         | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-8) |
-| 08 | **ETS**                         | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/ETS)    |
-| 09 | **Week 10: Tree**               | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-10)|
-| 10 | **Week 11: Implementasi Tree**  | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-11)|
-| 11 | **Week 12: BST & B-Tree**       | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-12)|
-| 12 | **Week 13: Implementasi BST**   | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-13)|
-| 13 | **Week 14: Graph**              | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-14)|
-| 14 | **Week 15: Djikstra Algorithm** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Struktur%20Data/Week-15)|
+| 01 | **Week 1: Curriculum Vitae**    | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-1) |
+| 02 | **Week 2: Review C++**          | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-2) |
+| 03 | **Week 3: Array of C++**        | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-3) |
+| 04 | **Week 5: Stack on C++**        | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-5) |
+| 05 | **Week 6: Aplikasi Stack**      | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-6) |
+| 06 | **Week 7: Queue**               | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-7) |
+| 07 | **Week 8: Linked List**         | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-8) |
+| 08 | **ETS**                         | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/ETS)    |
+| 09 | **Week 10: Tree**               | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-10)|
+| 10 | **Week 11: Implementasi Tree**  | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-11)|
+| 11 | **Week 12: BST & B-Tree**       | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-12)|
+| 12 | **Week 13: Implementasi BST**   | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-13)|
+| 13 | **Week 14: Graph**              | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-14)|
+| 14 | **Week 15: Djikstra Algorithm** | [View Directory](https://github.com/leesasya/Struktur-Data/tree/main/Week-15)|
 <br>
 
 > *Thank you! :D.*
